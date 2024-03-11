@@ -1,0 +1,11 @@
+logs/
+datasets/draw_*
+datasets/Event
+datasets/gaussian_noise
+datasets/kitti
+datasets/kitti_split
+datasets/tum_split
+datasets/synthetic_shapes_v6
+__pycache__
+runs/
+pretrained/
